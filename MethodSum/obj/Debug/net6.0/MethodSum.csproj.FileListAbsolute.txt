@@ -1,0 +1,15 @@
+C:\Users\SUDIR\Desktop\zadacha\MethodSum\bin\Debug\net6.0\MethodSum.exe
+C:\Users\SUDIR\Desktop\zadacha\MethodSum\bin\Debug\net6.0\MethodSum.deps.json
+C:\Users\SUDIR\Desktop\zadacha\MethodSum\bin\Debug\net6.0\MethodSum.runtimeconfig.json
+C:\Users\SUDIR\Desktop\zadacha\MethodSum\bin\Debug\net6.0\MethodSum.dll
+C:\Users\SUDIR\Desktop\zadacha\MethodSum\bin\Debug\net6.0\MethodSum.pdb
+C:\Users\SUDIR\Desktop\zadacha\MethodSum\obj\Debug\net6.0\MethodSum.csproj.AssemblyReference.cache
+C:\Users\SUDIR\Desktop\zadacha\MethodSum\obj\Debug\net6.0\MethodSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUDIR\Desktop\zadacha\MethodSum\obj\Debug\net6.0\MethodSum.AssemblyInfoInputs.cache
+C:\Users\SUDIR\Desktop\zadacha\MethodSum\obj\Debug\net6.0\MethodSum.AssemblyInfo.cs
+C:\Users\SUDIR\Desktop\zadacha\MethodSum\obj\Debug\net6.0\MethodSum.csproj.CoreCompileInputs.cache
+C:\Users\SUDIR\Desktop\zadacha\MethodSum\obj\Debug\net6.0\MethodSum.dll
+C:\Users\SUDIR\Desktop\zadacha\MethodSum\obj\Debug\net6.0\refint\MethodSum.dll
+C:\Users\SUDIR\Desktop\zadacha\MethodSum\obj\Debug\net6.0\MethodSum.pdb
+C:\Users\SUDIR\Desktop\zadacha\MethodSum\obj\Debug\net6.0\MethodSum.genruntimeconfig.cache
+C:\Users\SUDIR\Desktop\zadacha\MethodSum\obj\Debug\net6.0\ref\MethodSum.dll
